@@ -1,0 +1,3 @@
+/Users/maciekpytlik/Desktop/SNAKE FINAL/build/CMakeFiles/SnakeSFML.dir
+/Users/maciekpytlik/Desktop/SNAKE FINAL/build/CMakeFiles/edit_cache.dir
+/Users/maciekpytlik/Desktop/SNAKE FINAL/build/CMakeFiles/rebuild_cache.dir
