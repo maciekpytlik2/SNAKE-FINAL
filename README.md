@@ -22,7 +22,6 @@ Najprościej przez Homebrew:
 brew install sfml cmake
 ```
 
-Projekt jest przygotowany pod SFML 3.0. Jeżeli na laboratorium używana jest inna wersja, wystarczy dostosować `CMakeLists.txt`.
 
 ## Uruchomienie w terminalu
 
@@ -34,19 +33,6 @@ cmake --build .
 ./SnakeSFML
 ```
 
-## Uruchomienie w VS Code
-
-1. Otwórz folder projektu w VS Code.
-2. Upewnij się, że masz zainstalowane rozszerzenia C/C++ oraz CMake Tools.
-3. W terminalu VS Code wykonaj:
-
-```bash
-mkdir build
-cd build
-cmake ..
-cmake --build .
-./SnakeSFML
-```
 
 ## Sterowanie
 
